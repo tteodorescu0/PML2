@@ -1,6 +1,1 @@
-a. Let $H ∈ {1, . . . , K}$ be a discrete random variable, and let e1 and e2 be the observed values of two other random variables E1 and E2. Suppose we wish to calculate the vector
-P⃗(H|e1,e2) = (P(H = 1|e1,e2),...,P(H = K|e1,e2))
-Which of the following sets of numbers are sufficient for the calculation? i. P(e1,e2), P(H), P(e1|H), P(e2|H)
-ii. P(e1,e2), P(H), P(e1,e2|H) iii. P(e1|H), P(e2|H), P(H)
-b. Now suppose we now assume E1 ⊥ E2|H (i.e., E1 and E2 are conditionally independent given H). Which of the above 3 sets are sufficient now?
-Show your calculations as well as giving the final result. Hint: use Bayes rule.
+
